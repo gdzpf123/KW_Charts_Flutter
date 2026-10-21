@@ -41,6 +41,6 @@ _flutter.buildConfig = {"engineRevision":"a5cb96369ef86c7e85abf5d662a1ca5d897750
 // 因此可以安全启用 Service Worker 做离线/二次访问缓存。
 _flutter.loader.load({
   serviceWorkerSettings: {
-    serviceWorkerVersion: "3810722414",
+    serviceWorkerVersion: "294106039",
   },
 });
