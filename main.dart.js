@@ -28090,7 +28090,7 @@ atK:function atK(){},
 atL:function atL(a){this.a=a},
 Ut:function Ut(a,b){this.c=a
 this.a=b},
-aLr(a,b){var s=A.aWi("https://www.kwdata.top/api",B.I2,A.aA(["Accept","application/json"],t.N,t.z),B.I5),r=new A.Pt(A.b([B.Ej],t.i6))
+aLr(a,b){var s=A.aWi("http://120.48.130.140/api",B.I2,A.aA(["Accept","application/json"],t.N,t.z),B.I5),r=new A.Pt(A.b([B.Ej],t.i6))
 r.M(r,B.MY)
 r=new A.a9a($,r,$,new A.acG(51200),!1)
 r.XT$=s
